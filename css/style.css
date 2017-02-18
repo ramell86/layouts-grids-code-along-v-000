@@ -1,0 +1,9 @@
+IMG,VIDEO,AUDIO{
+  width: 100%;
+  MAX-WIDTH: 100%;
+}
+
+/*layout styles */
+.row{
+  margin-bottom: 20px;
+}
